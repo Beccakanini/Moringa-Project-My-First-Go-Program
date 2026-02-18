@@ -21,7 +21,7 @@ A simple, beginner-friendly introduction to Go programming that demonstrates how
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 ### What is This Project?
 
@@ -51,7 +51,7 @@ This guide is perfect for:
 
 ---
 
-## 💡 Why Go?
+##  Why Go?
 
 Go (Golang) is an open-source, statically-typed, compiled programming language created by Google. Here's why it's worth learning:
 
@@ -81,7 +81,7 @@ Go powers critical infrastructure at major companies:
 
 ---
 
-## 💻 System Requirements
+##  System Requirements
 
 ### Go Version
 
@@ -286,7 +286,7 @@ You just ran your first Go program!
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 After setup, your project folder should look like this:
 ```
@@ -307,7 +307,7 @@ my-first-go-app/
 
 ---
 
-## 🎮 Usage
+##  Usage
 
 ### Running the Program
 
@@ -368,7 +368,7 @@ go build -o greeting
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Features
 
@@ -393,7 +393,7 @@ go build -o greeting
 
 ---
 
-## 📚 Code Explanation
+##  Code Explanation
 
 Let's break down the code line by line:
 
@@ -506,7 +506,7 @@ fmt.Printf("Hello, %s! Welcome to Go!\nYou just ran your first Go program!\n", n
 
 ---
 
-## ⚙️ Configuration Options
+##  Configuration Options
 
 This simple program has no configuration files, but here are ways to customize it:
 
@@ -588,7 +588,7 @@ GOOS=linux GOARCH=amd64 go build -o greeting
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues & Solutions
 
@@ -891,7 +891,7 @@ If you're still stuck:
 
 ---
 
-## 📖 Learning Resources
+##  Learning Resources
 
 ### Official Documentation
 
@@ -934,7 +934,7 @@ If you're still stuck:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is a learning project, but contributions are welcome!
 
@@ -981,7 +981,7 @@ This is a learning project, but contributions are welcome!
 
 ---
 
-## 📄 License
+##  License
 
 This project is created for educational purposes as part of the Moringa School AI Capstone Project.
 
@@ -991,7 +991,7 @@ This project is created for educational purposes as part of the Moringa School A
 ```
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 Rebecca Kanini
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1022,7 +1022,7 @@ You are free to:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Go Team at Google** - For creating an amazing language
 - **Moringa School** - For the AI Capstone Project opportunity
@@ -1031,7 +1031,7 @@ You are free to:
 
 ---
 
-## 📞 Support & Contact
+##  Support & Contact
 
 ### Need Help?
 
@@ -1044,10 +1044,10 @@ You are free to:
 
 ### Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/my-first-go-app](https://github.com/yourusername/my-first-go-app)
+**Rebecca Kanini**
+- GitHub: (https://github.com/Beccakanini)
+- Email: beccakanini@gmail.com
+- Project Link: https://github.com/Beccakanini/Moringa-Project-My-First-Go-Program/
 
 ---
 
