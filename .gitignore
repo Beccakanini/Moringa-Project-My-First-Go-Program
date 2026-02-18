@@ -1,0 +1,7 @@
+# Binaries
+*.exe
+my-first-go-app
+
+# OS files
+.DS_Store
+Thumbs.db
