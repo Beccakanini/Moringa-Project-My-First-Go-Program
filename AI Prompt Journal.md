@@ -30,7 +30,7 @@ I'm new to Golang and I've gotten a bit rusty in coding, and I'd like you to be 
 
 # My Notes
 
-# 5 Prompt:
+# 5 Prompt: Guided Implementation
 I'm ready to implement my first Golang function. Could you guide me through creating a
 'Student' function with name, ID, and grades? Please explain each part of the syntax,
 especially the parts that differ from Python's approach to functions and methods.
